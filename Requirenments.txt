@@ -8,3 +8,4 @@ nltk
 PyMuPDF
 deep_translator
 langdetect
+isort
