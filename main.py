@@ -1,6 +1,6 @@
 import streamlit as st
 import io
-import fitz  # PyMuPDF
+import fitz  
 import nltk
 from langdetect import detect, LangDetectException
 from model_loader import load_model
