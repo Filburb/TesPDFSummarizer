@@ -10,5 +10,5 @@ def translate_to_indonesian(text: str) -> str:
     try:
         return GoogleTranslator(source="auto", target="id").translate(text)
     except Exception as e:
-        print("⚠️ Terjadi kesalahan saat menerjemahkan:", e)
+        print("Terjadi kesalahan saat menerjemahkan:", e)
         return text
