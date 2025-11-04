@@ -5,6 +5,6 @@ numpy
 scikit-learn
 networkx
 nltk
-PyMuPDF
+fitz
 deep_translator
 langdetect
