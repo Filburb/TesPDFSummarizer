@@ -9,4 +9,3 @@ PyMuPDF
 fitz
 deep_translator
 langdetect
-isort
